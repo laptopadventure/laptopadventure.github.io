@@ -15,7 +15,6 @@ I ***skipped*** 102, so I have nothing to show here.
 ### Table of Contents
 
 * [Daily Reading 1](#daily-reading-1)
-* 
 * [Daily Reading 2](#daily-reading-2)
 * [Daily Reading 3](#daily-reading-3)
 * [Daily Reading 4](#daily-reading-4)
