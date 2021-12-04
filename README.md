@@ -14,7 +14,7 @@ I ***skipped*** 102, so I have nothing to show here.
 
 ### Table of Contents
 
-* [Daily Reading 1](#daily-reading-1)
+* [Daily Reading 1](./readings/reading1.md)
 * [Daily Reading 2](#daily-reading-2)
 * [Daily Reading 3](#daily-reading-3)
 * [Daily Reading 4](#daily-reading-4)
@@ -29,10 +29,6 @@ I ***skipped*** 102, so I have nothing to show here.
 * [Daily Reading 13](#daily-reading-13)
 * [Daily Reading 14](#daily-reading-14)
 * [Daily Reading 15](#daily-reading-15)
-
-### Daily Reading 1
-
-I haven't done daily reading 1 yet.
 
 ### Daily Reading 2
 
