@@ -19,7 +19,7 @@ I ***skipped*** 102, so I have nothing to show here.
 * [Daily Reading 3](#daily-reading-3)
 * [Daily Reading 4](#daily-reading-4)
 * [Daily Reading 5](#daily-reading-5)
-* [Daily Reading 6](#daily-reading-6)
+* [Daily Reading 6](./readings/reading6.md)
 * [Daily Reading 7](#daily-reading-7)
 * [Daily Reading 8](#daily-reading-8)
 * [Daily Reading 9](#daily-reading-9)
@@ -41,10 +41,6 @@ I haven't done daily reading 4 yet.
 ### Daily Reading 5
 
 I haven't done daily reading 5 yet.
-
-### Daily Reading 6
-
-I haven't done daily reading 6 yet.
 
 ### Daily Reading 7
 
