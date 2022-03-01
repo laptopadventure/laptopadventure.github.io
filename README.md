@@ -14,23 +14,17 @@ I ***skipped*** 102, so I have nothing to show here.
 
 Unfortunately missed a lot of these, but I feel good about the quality of notes taken.
 
-### Table of Contents
-
-* [Daily Reading 1](./readings/reading1.md)
-* [Daily Reading 2](./readings/reading2.md)
-* [Daily Reading 6](./readings/reading6.md)
-* [Daily Reading 8](./readings/reading8.md)
+* [Daily Reading 1](./readings/201/reading1.md)
+* [Daily Reading 2](./readings/201/reading2.md)
+* [Daily Reading 6](./readings/201/reading6.md)
+* [Daily Reading 8](./readings/201/reading8.md)
 
 ## Code 301 - Intermediate Software Development
 
 Currently in this course.
 
-* [Daily Reading 1](#daily-reading-1)
-
-
-### Daily Reading 1
-
-This will turn into a link to the md page when I do it!
+* [Reading 1](#)
+* [Reading 2](./readings/301/reading2.md)
 
 ## Code 401 - Advanced Software Development
 
