@@ -23,8 +23,8 @@ Unfortunately missed a lot of these, but I feel good about the quality of notes 
 
 Currently in this course.
 
-* [Reading 1](#)
 * [Reading 2](./readings/301/reading2.md)
+* [Reading 4](./readings/301/reading4.md)
 
 ## Code 401 - Advanced Software Development
 
