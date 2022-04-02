@@ -26,3 +26,18 @@ function functionTwo() {
     * ![Stack trace example](../../img/stack.png)
 * What causes a Stack Overflow?
   * The point where your browser can't keep adding calls to the call stack. The only situation that really comes up in is when you accidentally add a recursive loop that adds to the call stack, aka a function that calls itself. It will keep calling itself, but never finishing what it calls because it goes deeper to run itself again, so on and so forth until the browser has had enough with you and stops the code from running with a stack overflow error.
+
+# Reading 2
+
+* What is a ‘reference error’?
+  * Thrown when you try to reference something that doesn't exist.
+* What is a ‘syntax error’?
+  * Thrown when you write nonsensical syntax, however that happens. Triggers from unbalanced (), [], {}, incorrect use of operators, and pretty much every other way you can muck up writing code.
+* What is a ‘range error’?
+  * A bad length set to any object that has length (Like Arrays). It can trigger from overflowing your stack as well, because the length gets to be too large.
+* What is a ‘type error’?
+  * The most common kind of error in javascript created because javascript doesn't enforce type. Because it is expecting you to be good about that rule, if you try to access things on data types that should not have values to access, it will error. For example, on an empty object you can try accessing anything- it'll just always be undefined. If you try to access anything from anything you accessed, you're essentially calling undefined.key, which is messed up. TypeError your way!
+* What is a breakpoint?
+  * Breakpoints are little markers you can put in your code to denote when the code execution should freeze. Why is this useful? Well, it lets you pick points to pick around at local variables and better debug what is going on with your code.
+* What does the word ‘debugger’ do in your code?
+  * Debugger is a keyword for placing a breakpoint. I wouldn't ever use it, just set markers in vsc or in browser. But yes, I suppose if you want to breakpoint that way it will work.
