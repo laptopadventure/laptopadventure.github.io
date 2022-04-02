@@ -1,13 +1,11 @@
 
-# Reading Notes 4
+# Reading Notes 11
 
 [Back to the table of contents](../README.md)
 
 ## Reading
 
 Fill in the chart below with five differences between SQL and NoSQL databases:
-
-SQL	NoSQL
 
 | SQL                                                                     | NoSQL                                                                                        |
 |-------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
