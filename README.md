@@ -25,8 +25,10 @@ Currently in this course.
 
 * [Reading 2](./readings/301/reading2.md)
 * [Reading 4](./readings/301/reading4.md)
-* [Reading 4](./readings/301/reading10.md)
-* [Reading 4](./readings/301/reading11.md)
+* [Reading 10](./readings/301/reading10.md)
+* [Reading 11](./readings/301/reading11.md)
+* [Reading 12](./readings/301/reading12.md)
+* [Reading 14](./readings/301/reading14.md)
 
 ## Code 401 - Advanced Software Development
 
