@@ -1,11 +1,11 @@
 
 # Reading Notes 14
 
-[Back to the table of contents](../README.md)
+[Back to the table of contents](../../README.md)
 
 ## Importance
 
-Diversity and Computer Science and software development has been a long time discussion had in the tech industry, and definitely an uphill battle historically. It's important to discuss and be informed about the what and why of diversity in the workplace, for a better more equally represented future with both equal opportunity and products made from and for everyone.
+Diversity and Computer Science and software development has been a long time discussion had in the tech industry, and definitely an uphill battle historically. It's important to discuss and be informed about the what and why of diversity in the workplace, for a better, more equally represented future with both equal opportunity and products made from and for everyone.
 
 ## Reading
 

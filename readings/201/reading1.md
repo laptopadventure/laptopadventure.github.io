@@ -1,6 +1,6 @@
 # Daily Reading 1 Notes
 
-[Back to the table of contents](../README.md)
+[Back to the table of contents](../../README.md)
 
 ## Chapter 1: "Structure"
 

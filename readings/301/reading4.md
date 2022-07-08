@@ -1,7 +1,7 @@
 
 # Reading Notes 4
 
-[Back to the table of contents](../README.md)
+[Back to the table of contents](../../README.md)
 
 * What is a ‘Controlled Component’?
   * Some html components in react actually do hold state for themselves, ones that make sense for them to do so, like inputs, selects, and textareas. That means the "value" attribute for inputs can live update from state. We listen to the input's `onChange` signal, update state every time they type, and then set value to the state. Wonderful!

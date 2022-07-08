@@ -21,7 +21,7 @@ Unfortunately missed a lot of these, but I feel good about the quality of notes 
 
 ## Code 301 - Intermediate Software Development
 
-Currently in this course.
+Did better, but want to seriously stop missing these, expletives excluded from this post-301 retrospective.
 
 * [Reading 2](./readings/301/reading2.md)
 * [Reading 4](./readings/301/reading4.md)
@@ -32,4 +32,6 @@ Currently in this course.
 
 ## Code 401 - Advanced Software Development
 
-Will get here eventually!
+Current course.
+
+* [Prework: Practice in the Terminal](./readings/401/_prework_terminal.md)

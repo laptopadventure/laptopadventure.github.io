@@ -1,6 +1,6 @@
 # Daily Reading 2 Notes
 
-[Back to the table of contents](../README.md)
+[Back to the table of contents](../../README.md)
 
 ## HTML Chapter 2: "Text"
 

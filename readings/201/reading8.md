@@ -1,6 +1,6 @@
 # Daily Reading 8 Notes
 
-[Back to the table of contents](../README.md)
+[Back to the table of contents](../../README.md)
 
 ## Online Reading 1: "Layout"
 

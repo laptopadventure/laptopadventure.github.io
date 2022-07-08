@@ -1,7 +1,7 @@
 
 # Reading Notes 12
 
-[Back to the table of contents](../README.md)
+[Back to the table of contents](../../README.md)
 
 ## Reading
 

@@ -2,7 +2,7 @@
 
 # Reading Notes 2
 
-[Back to the table of contents](../README.md)
+[Back to the table of contents](../../README.md)
 
 ## Reading
 
