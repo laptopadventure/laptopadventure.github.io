@@ -35,3 +35,4 @@ Did better, but want to seriously stop missing these, expletives excluded from t
 Current course.
 
 * [Prework: Practice in the Terminal](./readings/401/_prework_terminal.md)
+* [Reading 1](/readings/401/reading1.md)
