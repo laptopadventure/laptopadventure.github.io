@@ -36,3 +36,4 @@ Current course.
 
 * [Prework: Practice in the Terminal](./readings/401/_prework_terminal.md)
 * [Reading 1](/readings/401/reading1.md)
+* [Reading 2](/readings/401/reading2.md)
