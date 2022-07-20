@@ -8,32 +8,33 @@ This repository holds my reading notes for code fellows. I update it with my own
 
 ## Code 102 - Intro to Software Development
 
-I ***skipped*** 102, so I have nothing to show here.
+I **_skipped_** 102, so I have nothing to show here.
 
 ## Code 201 - Foundations of Software Development
 
 Unfortunately missed a lot of these, but I feel good about the quality of notes taken.
 
-* [Daily Reading 1](./readings/201/reading1.md)
-* [Daily Reading 2](./readings/201/reading2.md)
-* [Daily Reading 6](./readings/201/reading6.md)
-* [Daily Reading 8](./readings/201/reading8.md)
+- [Daily Reading 1](./readings/201/reading1.md)
+- [Daily Reading 2](./readings/201/reading2.md)
+- [Daily Reading 6](./readings/201/reading6.md)
+- [Daily Reading 8](./readings/201/reading8.md)
 
 ## Code 301 - Intermediate Software Development
 
 Did better, but want to seriously stop missing these, expletives excluded from this post-301 retrospective.
 
-* [Reading 2](./readings/301/reading2.md)
-* [Reading 4](./readings/301/reading4.md)
-* [Reading 10](./readings/301/reading10.md)
-* [Reading 11](./readings/301/reading11.md)
-* [Reading 12](./readings/301/reading12.md)
-* [Reading 14](./readings/301/reading14.md)
+- [Reading 2](./readings/301/reading2.md)
+- [Reading 4](./readings/301/reading4.md)
+- [Reading 10](./readings/301/reading10.md)
+- [Reading 11](./readings/301/reading11.md)
+- [Reading 12](./readings/301/reading12.md)
+- [Reading 14](./readings/301/reading14.md)
 
 ## Code 401 - Advanced Software Development
 
 Current course.
 
-* [Prework: Practice in the Terminal](./readings/401/_prework_terminal.md)
-* [Reading 1](/readings/401/reading1.md)
-* [Reading 2](/readings/401/reading2.md)
+- [Prework: Practice in the Terminal](./readings/401/_prework_terminal.md)
+- [Reading 1](/readings/401/reading1.md)
+- [Reading 2](/readings/401/reading2.md)
+- [Reading 4](/readings/401/reading4.md)
