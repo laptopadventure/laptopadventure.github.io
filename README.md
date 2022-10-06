@@ -39,3 +39,4 @@ Current course.
 - [Reading 2](/readings/401/reading2.md)
 - [Reading 4](/readings/401/reading4.md)
 - [Reading 26](/readings/401/reading26.md)
+- [Reading 26](/readings/401/reading27.md)
