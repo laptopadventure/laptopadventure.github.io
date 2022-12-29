@@ -42,6 +42,7 @@ Current course.
 - [Reading 27](/readings/401/reading27.md)
 - [Reading 29](/readings/401/reading29.md)
 - [Reading 36](/readings/401/reading36.md)
-- [Reading 43](/readings/401/reading36.md)
+- [Reading 43](/readings/401/reading42.md)
+- [Reading 43](/readings/401/reading43.md)
 
 
